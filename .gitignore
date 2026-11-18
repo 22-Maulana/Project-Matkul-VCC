@@ -1,0 +1,32 @@
+# ==============================================================================
+# .gitignore untuk Project-Matkul-VCC
+# ==============================================================================
+
+# Abaikan semua dotfiles / konfigurasi sistem Linux & IDE di root
+.*
+!.gitignore
+
+# Virtual Environments (Venv)
+env/
+venv/
+.venv/
+env-*/
+*/env-*/
+**/env-*/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*/__pycache__/
+**/*/__pycache__/
+
+# Log & Runtime Process files
+*.log
+*.pid
+*.tmp
+logs/*.log
+*/logs/*.log
+
+# Pengecualian: Sertakan data hasil benchmark CSV di monitor-performa/logs
+!monitor-performa/logs/*.csv

@@ -1,0 +1,10 @@
+# Dependensi Utama Project-Matkul-VCC
+fastapi>=0.110.0
+uvicorn>=0.28.0
+streamlit>=1.32.0
+pandas>=2.2.0
+numpy>=1.26.0
+locust>=2.24.0
+glances>=4.0.0
+psutil>=5.9.0
+requests>=2.31.0

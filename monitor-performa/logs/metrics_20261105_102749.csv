@@ -1,0 +1,5 @@
+timestamp,epoch,phase,sys_cpu_percent,sys_ram_used_mb,sys_ram_total_mb,sys_ram_percent,sys_ram_available_mb,venv_proc_count,venv_cpu_percent,venv_ram_mb,global_proc_count,global_cpu_percent,global_ram_mb
+2026-11-05 10:27:49,1793874469.311,BASELINE,0.0,1384.3,1905.1,72.7,520.8,0,0.0,0.0,0,0.0,0.0
+2026-11-05 10:27:50,1793874470.311,BASELINE,6.5,1384.6,1905.1,72.7,520.5,0,0.0,0.0,0,0.0,0.0
+2026-11-05 10:27:51,1793874471.311,BASELINE,4.5,1385.0,1905.1,72.7,520.2,0,0.0,0.0,0,0.0,0.0
+2026-11-05 10:27:52,1793874472.312,BASELINE,3.6,1384.9,1905.1,72.7,520.2,0,0.0,0.0,0,0.0,0.0
